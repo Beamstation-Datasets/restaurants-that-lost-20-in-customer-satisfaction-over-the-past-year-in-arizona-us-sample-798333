@@ -1,6 +1,6 @@
 # Restaurants That Lost 20%+ in Customer Satisfaction Over the Past Year in Arizona, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `798333` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 332 records |
-| Free sample size | 33 records (9.94%) |
-| Last export | 2026-04-16T11:36:17.351444+00:00 |
+| Full dataset size | 307 records |
+| Free sample size | 30 records (9.77%) |
+| Last export | 2026-04-23T11:10:07.146539+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurants-that-lost-20-in-customer-satisfaction-over-the-past-year-in-arizona-us-sample-798333/releases/download/sample-latest/beamstation_798333_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
