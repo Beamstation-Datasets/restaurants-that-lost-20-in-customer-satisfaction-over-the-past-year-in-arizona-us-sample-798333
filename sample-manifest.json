@@ -1,12 +1,12 @@
 {
-  "export_job_id": "46d65221-14d8-4999-8c2e-7b294f57e1ab",
+  "export_job_id": "50d8d6db-e53e-4d73-b299-b8d156b08dd7",
   "id_short": 798333,
-  "published_at": "2026-04-23T19:39:14Z",
+  "published_at": "2026-04-30T19:33:38Z",
   "repo_name": "restaurants-that-lost-20-in-customer-satisfaction-over-the-past-year-in-arizona-us-sample-798333",
   "sample_asset_name": "beamstation_798333_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/798333/beamstation_798333_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 30,
-  "sample_sha256": "bc35ff08a7238c034faf8954546ac6f0262403a28b3bd3df62e6d9bc4f664646",
-  "sample_size_bytes": 137607,
-  "total_records": 307
+  "sample_records": 37,
+  "sample_sha256": "bc2daaee13e1172ab654ebe8158bf4a4a118ce3b37256350eedfc07528791286",
+  "sample_size_bytes": 159987,
+  "total_records": 371
 }
